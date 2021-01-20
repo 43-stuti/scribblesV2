@@ -1,6 +1,8 @@
 # scribblesV2
 
+
 This is the code for the webapp used to control Mr Scribbles (A dancing drawing Robot)
+![gif](https://user-images.githubusercontent.com/12654691/105194605-c3a1ed80-5b07-11eb-8175-6ec83e5547b6.gif)
 ## Intro
 #### The Robot
 - Our robot was driven by the arduino microcontroller, connected to DC and servo motors. 
